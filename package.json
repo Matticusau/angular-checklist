@@ -1,6 +1,6 @@
 {
   "name": "angular-checklist-matticusau",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --project demo",
@@ -9,7 +9,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "author": "matticusau",
+  "private": false,
   "dependencies": {
     "@angular/animations": "^11.2.6",
     "@angular/common": "^11.2.6",
